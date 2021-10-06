@@ -1,0 +1,51 @@
+{
+  "name": "product-inventory",
+  "description": "Vue.js product inventory project. Using; vue: 2.6.11, vue-resource: 1.5.3, vue-router: 3.5.2, vue-toastr: 2.1.2, vuelidate: 0.7.6, vuex: 3.6.2",
+  "version": "1.0.0",
+  "author": "alimyogurtcu",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "firebase": "^9.1.0",
+    "vue": "^2.6.11",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^3.5.2",
+    "vue-toastr": "^2.1.2",
+    "vuelidate": "^0.7.6",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
