@@ -1,4 +1,4 @@
-# Product-Inventory-VueJS
+# product-inventory-vue
 
 # alimyogurtcu.github.io/product-inventory
 A simple product inventory application.
