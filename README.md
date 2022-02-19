@@ -1,6 +1,6 @@
 # product-inventory-vue
 
-# alimyogurtcu.github.io/product-inventory
+# https://alimyogurtcu.github.io/projects/product-inventory
 A simple product inventory application.
 Project includes operations such as adding product, saling product, deleting product, resetting the product list, total inventory value showing, total sales value showing, user mail-password change-deletion after a simple registration-login. 
 
